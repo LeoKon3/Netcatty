@@ -65,6 +65,9 @@ coverage
 # Serena MCP project config (local only)
 /.serena/
 
+# Codebase Memory MCP cache (local only)
+/.codebase-memory-cache/
+
 # Git worktrees (local isolated workspaces)
 /.worktrees/
 
